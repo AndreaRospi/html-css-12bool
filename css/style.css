@@ -1,0 +1,31 @@
+.wrap {
+    flex-wrap: wrap;
+}
+
+
+
+.box {
+    min-height: 145px;
+    background-color: #ffc0cb;
+    border: 1px solid black;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-nested {
+    min-height: 110px;
+    background-color: #f07f80;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pink {
+    background-color: #ffc0cb;
+    padding: 15px;
+    border: 1px solid black;
+}
+
